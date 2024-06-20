@@ -1,4 +1,4 @@
-![](https://github.com/SytexMC/Minecraft-Server-Optimization/blob/main/minecraft_server_optimization_guide.png)
+![](https://github.com/SytexMC/Minecraft-Server-Optimization/blob/main/Image.png)
 
 ### This guide has been relocated to our [GitHub wiki](https://github.com/SytexMC/Minecraft-Server-Optimization/wiki)!
 
